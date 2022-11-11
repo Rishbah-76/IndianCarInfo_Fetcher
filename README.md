@@ -16,3 +16,6 @@ code_training folder: contains codes to create car detection model, number plate
  c) Pip install pytesseract , imutils , flask and much please...refer code
                        
 #Important: Uzip the lbph_car_detection.rar to use the APPLICATION
+
+# Medium Link to read about peoject:
+https://medium.com/@rbrishabh76/fetching-car-details-using-computer-vision-and-ocr-346f31a510a3
